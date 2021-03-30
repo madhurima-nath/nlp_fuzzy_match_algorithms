@@ -13,7 +13,8 @@ Outline of the talk:    
   - Algorithms to implement fuzzy matching: (~15 minutes)       
     1. Levenshtein distance algorithm: metric to measure distance between two string sequences 
     2. Damerau–Levenshtein distance algorithm: metric to measure edit distance (how dissimilar two strings are) 
-    3. n-gram algorithm: a probabilistic language model to predict the next item in such a sequence in the form of a (n − 1)–order Markov mode
+    3. Bitmap algorithm
+    4. n-gram algorithm: a probabilistic language model to predict the next item in such a sequence in the form of a (n − 1)–order Markov mode
   -  Walk through of an example of fuzzy string matching (~10 minutes)    
   -  Q/A (~10-15 minutes)
 
