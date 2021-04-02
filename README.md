@@ -32,9 +32,10 @@ Link to the Slides (add link)
 6. [Geek for Geeks - Bitap Algorithm](https://www.geeksforgeeks.org/java-program-to-implement-bitap-algorithm-for-string-matching/)
 7. [Stanford slides on n-gram](https://web.stanford.edu/~jurafsky/slp3/slides/LM_4.pdf)
 8. [Data camp tutorial - fuzzy string matching](https://www.datacamp.com/community/tutorials/fuzzy-string-python)
-9. [Levenshtein python modeule](https://pypi.org/project/python-Levenshtein/)
-10. [Article on record linking and fuzzy matching](https://pbpython.com/record-linking.html)
-11. [Medium post on Levenshtein distance](https://blog.paperspace.com/measuring-text-similarity-using-levenshtein-distance/)
-12. https://www.rosette.com/blog/overview-fuzzy-name-matching-techniques/
+9. [Levenshtein python modeule](https://pypi.org/project/python-Levenshtein/))
+10. [Levenshtein distance theory](https://www.python-course.eu/levenshtein_distance.php)
+11. [Article on record linking and fuzzy matching](https://pbpython.com/record-linking.html)
+12. [Medium post on Levenshtein distance](https://blog.paperspace.com/measuring-text-similarity-using-levenshtein-distance/)
+13. https://www.rosette.com/blog/overview-fuzzy-name-matching-techniques/
 
 Feel free to reach out if you have any questions.
