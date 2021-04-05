@@ -9,7 +9,6 @@ to the Jupyter notebook.
 
 <br> 
 
-
 ## Outline of the talk:    
 
 - Introduction to fuzzy matching
@@ -21,6 +20,14 @@ to the Jupyter notebook.
     - n-gram algorithm
 - Implementation of fuzzy matching on real data
 - Other fuzzy matching algorithms
+
+<br>
+
+
+## Libraries used:
+- Jellyfish: Refer [here](https://pypi.org/project/jellyfish/) for more information
+- Fuzzywuzzy: Refer [here](https://pypi.org/project/fuzzywuzzy/) for more information
+- Fuzzy_match: Refer [here](https://pypi.org/project/fuzzy-match/) for more information
 
 <br>
 
@@ -37,11 +44,6 @@ Snapshot of the data:
 ![image](https://user-images.githubusercontent.com/31106009/113615144-7f5fbd00-9621-11eb-8beb-b4ede994d464.png)
 
 <br>
-
-## Libraries used:
-- Jellyfish: Refer [here](https://pypi.org/project/jellyfish/) for more information
-- Fuzzywuzzy: Refer [here](https://pypi.org/project/fuzzywuzzy/) for more information
-- Fuzzy_match: Refer [here](https://pypi.org/project/fuzzy-match/) for more information
 
 
 ## References:
