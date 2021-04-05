@@ -32,8 +32,13 @@ Snapshot of the data:
 
 ![image](https://user-images.githubusercontent.com/31106009/113615144-7f5fbd00-9621-11eb-8beb-b4ede994d464.png)
 
-
 <br>
+
+## Libraries used:
+- Jellyfish: Refer [here](https://pypi.org/project/jellyfish/) for more information
+- Fuzzywuzzy: Refer [here](https://pypi.org/project/fuzzywuzzy/) for more information
+- Fuzzy_match: Refer [here](https://pypi.org/project/fuzzy-match/) for more information
+
 
 ## References:
 1. [Levenshtein, Vladimir I. "Binary codes capable of correcting deletions, insertions, and reversals." In Soviet physics doklady, vol. 10, no. 8, pp. 707-710. 1966.](https://nymity.ch/sybilhunting/pdf/Levenshtein1966a.pdf)
@@ -44,10 +49,9 @@ Snapshot of the data:
 6. [Geek for Geeks - Bitap Algorithm](https://www.geeksforgeeks.org/java-program-to-implement-bitap-algorithm-for-string-matching/)
 7. [Stanford slides on n-gram](https://web.stanford.edu/~jurafsky/slp3/slides/LM_4.pdf)
 8. [Data camp tutorial - fuzzy string matching](https://www.datacamp.com/community/tutorials/fuzzy-string-python)
-9. [Jellyfish python module](https://pypi.org/project/jellyfish/)
-10. [Levenshtein distance theory](https://www.python-course.eu/levenshtein_distance.php)
-11. [Article on record linking and fuzzy matching](https://pbpython.com/record-linking.html)
-12. [Medium post on Levenshtein distance](https://blog.paperspace.com/measuring-text-similarity-using-levenshtein-distance/)
-13. https://www.rosette.com/blog/overview-fuzzy-name-matching-techniques/
+9. [Levenshtein distance theory](https://www.python-course.eu/levenshtein_distance.php)
+10. [Article on record linking and fuzzy matching](https://pbpython.com/record-linking.html)
+11. [Medium post on Levenshtein distance](https://blog.paperspace.com/measuring-text-similarity-using-levenshtein-distance/)
+12. https://www.rosette.com/blog/overview-fuzzy-name-matching-techniques/
 
 Feel free to reach out if you have any questions.
