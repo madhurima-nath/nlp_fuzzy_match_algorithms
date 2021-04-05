@@ -1,27 +1,34 @@
 # WWCode Data Science: NLP Fuzzy Match Algorithms
 
-The following topics are covered in the session. 
-
-
 Fuzzy string matching is technique to find strings which have approximate matches. 
-There are multiple applications of fuzzy matching - finding golden unique records in master
-data managements to correcting typing errors to giving correct suggestion to free form texts. 
+There are multiple applications of fuzzy matching. 
 This talk will cover a few algorithms which are implemented for such approximate string matchings.
 
-Outline of the talk:    
-  - Introduction to fuzzy string matching (~5 minutes)    
-  - Algorithms to implement fuzzy matching: (~15 minutes)       
-    1. Levenshtein distance algorithm: metric to measure distance between two string sequences 
-    2. Damerau–Levenshtein distance algorithm: metric to measure edit distance (how dissimilar two strings are) 
-    3. Bitmap algorithm
-    4. n-gram algorithm: a probabilistic language model to predict the next item in such a sequence in the form of a (n − 1)–order Markov mode
-  -  Walk through of an example of fuzzy string matching (~10 minutes)    
-  -  Q/A (~10-15 minutes)
+<br> 
 
+## Outline of the talk:    
 
-Link to data, download and details
+- Introduction to fuzzy matching
+- Applications of fuzzy matching
+- Algorithms used for fuzzy matching
+    - Levenshtein distance algorithm
+    - Damerau-Levenshtein distance algorithm
+    - Bitmap algorithm 
+    - n-gram algorithm
+- Implementation of fuzzy matching on real data
+- Other fuzzy matching algorithms
 
-Link to the Slides (add link)
+<br>
+
+### Implementation on Real Data
+
+Download data [here from Kaggle](https://www.kaggle.com/leandrodoze/room-type).
+
+The data contains two columns for room type descriptions. Column 1 is the description from Expedia, and column 2 is the associated room type in Booking.com.
+
+<u> **Aim:**</u> is to compare and match these two columns and the result would be 'human like understanding that the matched entries are same'.
+
+<br>
 
 ## References:
 1. [Levenshtein, Vladimir I. "Binary codes capable of correcting deletions, insertions, and reversals." In Soviet physics doklady, vol. 10, no. 8, pp. 707-710. 1966.](https://nymity.ch/sybilhunting/pdf/Levenshtein1966a.pdf)
