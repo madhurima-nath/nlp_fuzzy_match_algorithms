@@ -28,6 +28,11 @@ The data contains two columns for room type descriptions. Column 1 is the descri
 
 <u> **Aim:**</u> is to compare and match these two columns and the result would be 'human like understanding that the matched entries are same'.
 
+Snapshot of the data:
+
+![image](https://user-images.githubusercontent.com/31106009/113615144-7f5fbd00-9621-11eb-8beb-b4ede994d464.png)
+
+
 <br>
 
 ## References:
