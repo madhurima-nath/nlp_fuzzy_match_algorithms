@@ -4,7 +4,11 @@ Fuzzy string matching is technique to find strings which have approximate matche
 There are multiple applications of fuzzy matching. 
 This talk will cover a few algorithms which are implemented for such approximate string matchings.
 
+[Link](https://github.com/mnathvt/nlp_fuzzy_match_algorithms/blob/main/fuzzy%20matching%20algorithm.ipynb)
+to the Jupyter notebook.
+
 <br> 
+
 
 ## Outline of the talk:    
 
