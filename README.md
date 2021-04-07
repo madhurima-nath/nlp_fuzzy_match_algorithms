@@ -59,6 +59,6 @@ Snapshot of the data:
 9. [Levenshtein distance theory](https://www.python-course.eu/levenshtein_distance.php)
 10. [Article on record linking and fuzzy matching](https://pbpython.com/record-linking.html)
 11. [Medium post on Levenshtein distance](https://blog.paperspace.com/measuring-text-similarity-using-levenshtein-distance/)
-12. https://www.rosette.com/blog/overview-fuzzy-name-matching-techniques/
+12. [stackoverflow for n-gram similarity](https://stackoverflow.com/questions/53827339/string-matching-using-tf-idf-ngrams-and-cosine-similarity-in-python)
 
 Feel free to reach out if you have any questions.
