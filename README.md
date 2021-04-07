@@ -20,6 +20,7 @@ to the Jupyter notebook.
     - n-gram algorithm
 - Implementation of fuzzy matching on real data
 - Other fuzzy matching algorithms
+- [Record Linkange Toolkit](https://recordlinkage.readthedocs.io/en/latest/about.html) library to link records in or between data sources and provides tools for deduplication and record linkage.
 
 <br>
 
