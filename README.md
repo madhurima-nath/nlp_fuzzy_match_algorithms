@@ -36,6 +36,8 @@ to the Jupyter notebook.
 
 Download data [here from Kaggle](https://www.kaggle.com/leandrodoze/room-type).
 
+The csv file is also [here]().
+
 The data contains two columns for room type descriptions. Column 1 is the description from Expedia, and column 2 is the associated room type in Booking.com.
 
 <u> **Aim:**</u> is to compare and match these two columns and the result would be 'human like understanding that the matched entries are same'.
