@@ -36,7 +36,7 @@ to the Jupyter notebook.
 
 Download data [here from Kaggle](https://www.kaggle.com/leandrodoze/room-type).
 
-The csv file is also [here]().
+The csv file is also [here](https://github.com/mnathvt/nlp_fuzzy_match_algorithms/blob/main/room_type.csv).
 
 The data contains two columns for room type descriptions. Column 1 is the description from Expedia, and column 2 is the associated room type in Booking.com.
 
