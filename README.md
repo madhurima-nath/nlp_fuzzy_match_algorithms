@@ -7,6 +7,8 @@ This talk will cover a few algorithms which are implemented for such approximate
 [Link](https://github.com/mnathvt/nlp_fuzzy_match_algorithms/blob/main/fuzzy%20matching%20algorithm.ipynb)
 to the Jupyter notebook.
 
+[Youtube Link](https://www.youtube.com/watch?v=__Ysw69Hiw0)
+
 <br> 
 
 ## Outline of the talk:    
