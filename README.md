@@ -18,7 +18,7 @@ to the Jupyter notebook.
 - Algorithms used for fuzzy matching
     - Levenshtein distance algorithm
     - Damerau-Levenshtein distance algorithm
-    - Bitmap algorithm 
+    - Bitap algorithm 
     - n-gram algorithm
 - Implementation of fuzzy matching on real data
 - Other fuzzy matching algorithms
